@@ -16,10 +16,10 @@ services:
     volumes:
       - /var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: password-here
+      MYSQL_ROOT_PASSWORD: pwd1788open
       MYSQL_DATABASE: opencats
-      MYSQL_USER: user-here
-      MYSQL_PASSWORD: password-here
+      MYSQL_USER: andhan
+      MYSQL_PASSWORD: pwd1788open§
 
 # optional:
 
